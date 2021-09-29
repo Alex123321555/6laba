@@ -1,0 +1,7 @@
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 6\Laboratornaya 6\bin\Debug\Laboratornaya 6.exe.config
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 6\Laboratornaya 6\bin\Debug\Laboratornaya 6.exe
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 6\Laboratornaya 6\bin\Debug\Laboratornaya 6.pdb
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 6\Laboratornaya 6\obj\Debug\Laboratornaya 6.csprojAssemblyReference.cache
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 6\Laboratornaya 6\obj\Debug\Laboratornaya 6.csproj.CoreCompileInputs.cache
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 6\Laboratornaya 6\obj\Debug\Laboratornaya 6.exe
+D:\Учеба\Программирование\Первый курс\C#\Laboratornaya 6\Laboratornaya 6\obj\Debug\Laboratornaya 6.pdb
